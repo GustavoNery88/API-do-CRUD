@@ -1,0 +1,5 @@
+# Diretório node_modules
+node_modules/
+
+# Arquivos de configuração local
+.env
